@@ -15,3 +15,7 @@ let isLoggedIn =1
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
+
+// ************ operations ******//
+console.log("1"+2+2)
+console.log(1+2+"2")
